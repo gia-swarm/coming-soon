@@ -1,5 +1,7 @@
 # Gia Swarm
 
+![image](https://github.com/user-attachments/assets/9222d12c-f614-4147-9bf2-2e9bec238d25)
+
 🚧 **COMING SOON** 🚧
 
 The gia-swarm/gia repository will be open-sourced on public launch 🚀
